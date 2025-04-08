@@ -398,3 +398,14 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Carpeta de Planos 
+/Planos_jpg/*.jpg
+
+# Archivos de entorno
+.env
+.env.local
+.env*.local
+
+# Dependencias
+node_modules/
